@@ -6,3 +6,5 @@
 .vbox*
 .viminfo
 .mozilla
+.Xauthority
+.gitconfig
