@@ -1,1 +1,8 @@
 .ssh
+.ICEauthority
+.bash_history
+.cache
+.dotfiles.git
+.vbox*
+.viminfo
+.mozilla
