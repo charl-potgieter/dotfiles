@@ -38,6 +38,9 @@
         <value type="string" value="dropbox"/>
         <value type="string" value="mcafee status: ok"/>
       </property>
+      <property name="names-ordered" type="array">
+        <value type="string" value="networkmanager applet"/>
+      </property>
     </property>
     <property name="plugin-8" type="string" value="battery"/>
   </property>

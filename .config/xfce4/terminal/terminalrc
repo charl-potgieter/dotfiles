@@ -1,5 +1,5 @@
 [Configuration]
-ColorBackground=#f3f3f3f3f3f3
+ColorBackground=#ffffffffffff
 MiscAlwaysShowTabs=FALSE
 MiscBell=FALSE
 MiscBellUrgent=FALSE
@@ -26,4 +26,6 @@ MiscUseShiftArrowsToScroll=FALSE
 MiscSlimTabs=FALSE
 MiscNewTabAdjacent=FALSE
 ColorForeground=#000000000000
+MiscSearchDialogOpacity=100
+MiscShowUnsafePasteDialog=TRUE
 
